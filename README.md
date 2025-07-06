@@ -1,4 +1,4 @@
-# 🎓 Student Dashboard App - Angular + Type Script + Bootstrap
+# 🎓 Student Grades - Angular + Type Script + Bootstrap
 
 A basic Angular application to manage and display student information based on grades. This project helps practice **Angular fundamentals** like data binding, event handling, structural directives, and dynamic styling — with **Bootstrap** for UI.
 
